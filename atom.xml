@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://1216517407.github.io</id>
     <title>Gridea</title>
-    <updated>2022-04-27T17:29:02.448Z</updated>
+    <updated>2022-04-27T17:30:05.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://1216517407.github.io"/>
     <link rel="self" href="https://1216517407.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://1216517407.github.io/post/CV-6_Enterprise/</id>
         <link href="https://1216517407.github.io/post/CV-6_Enterprise/">
         </link>
-        <updated>2022-04-25T07:27:31.000Z</updated>
+        <updated>2022-04-25T00:27:31.000Z</updated>
         <content type="html"><![CDATA[<font face='SimSun'>
 <p>在我还没入舰船这个大坑的时候，我只在星际迷航里听过 “enterprise” 这个名字，“企业？这个名字真的好奇怪！”这是我那个时候的想法，但是不知道怎么的，每次听到 “enterprise，engage” 的时候，总会感觉心里有些莫名的激动。正式了解到她还是我入坑碧蓝航线和WoWs的时候，而在那之后，enterprise 这个名字也不再是简简单单的“企业”的意思了。</p>
 <p>回到那个炮火纷飞的年代，企业号还只是初出茅庐的新手，舰载机着舰事故也时有发生，她像一位刚上战场的新兵一样在太平洋上踉踉跄跄的航行着，直到那改变历史的一天。珍珠港的熊熊烈火燃烧着，毫无还手能力的战列舰们在入侵者毫不留情的炸弹中沉入冰冷的海底，而亚利桑那悲伤的眼泪也还在那片海湾上兀自流着，诉说着那段耻辱的历史。但也正是从那天开始，真正的传奇开始提笔撰写。</p>
@@ -42,38 +42,6 @@
 <p>不久，企业被日本的自杀式神风战斗机击中，不得不回到船坞修理。三个月后，这位饱经风霜的战士在船坞里收到了日本战败投降的消息。可是已然孑然一身的她，又可以向谁诉说这份喜悦和艰辛呢。她傲然走到了战争的最后，带着姐妹和战友的重托，她或许真的需要好好休息一下了。</p>
 <p>企业号比进入东京湾的任何一艘战舰都有资格接受本子的投降，但是企业或许对这些根本不会在意吧，她应该会笑着把这条消息丢在一边，笑着对照片里的姐妹讲述自己经历的一切。一位失去猎物的猎手，又还剩下些什么呢？有人为她被拆解的命运而唏嘘，但或许这是这位战士最好的告别方式。那个自己曾经誓死捍卫的自由国度，转头就背弃了自己。那样就好，停留在那个战火纷飞的年代就好，战士的归宿永远是战场。她笑了笑，慢慢消逝于炮火的黑烟中。</p>
 <p>“我曾横跨无数战场，也迎接过无数别离，我的身上承载着无数的夙愿与意志。指挥官做好承担这一切的准备了吗？——是吗…那就一起走下去吧，直到生命的尽头。“</font></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://1216517407.github.io/post/hello-gridea/</id>
-        <link href="https://1216517407.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
